@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<style type="text/css">
+			html, body{ background:white; }
+			.product{ background:red; }
+		</style>
+	</head>
+	<body>
+		<div id="content">
+			for( product of products )
+			{
+				<Product />
+			}
+		</div>
+	</body>
+</html>

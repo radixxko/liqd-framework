@@ -1,0 +1,33 @@
+<style>
+	#header
+	{
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 20px;
+		right: 0;
+	}
+</style>
+<div id="header">
+	if( Test('a') )
+	{
+		<img id="logo" src="logo" />
+		<div id="menu">
+			for( category of categories )
+			{
+				<div class="menu-category">
+					for( item of category )
+					{
+						<div class="menu-category-item">
+							item
+						</div>
+					}
+				</div>
+			}
+		</div>
+	}
+	else
+	{
+		<img id="logo" src="logo" />
+	}
+</div>

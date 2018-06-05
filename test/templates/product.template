@@ -1,0 +1,9 @@
+<style type="text/css">
+	.product{ margin: 28px; }
+	.button{ display:inline-block; padding:10px; background:green; cursor:pointer; }
+</style>
+<div class="product">
+	<div class="name">$product.name</div>
+	<Gallery />
+	<div class="button">buy</div>
+</div>

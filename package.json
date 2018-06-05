@@ -1,0 +1,30 @@
+{
+  "name": "liqd-framework",
+  "description": "Node.JS Server framework",
+  "version": "0.0.1",
+  "author": "radixxko",
+  "license": "MIT",
+  "main": "lib/liqd.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "test": "nyc mocha",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/radixxko/liqd-framework.git"
+  },
+  "keywords": [
+    "liqd",
+    "framework"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "liqd-parser": "^1.0.2",
+    "mocha": "^5.0.4",
+    "nyc": "^11.6.0"
+  }
+}

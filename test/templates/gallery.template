@@ -1,0 +1,6 @@
+<div class="gallery">
+	for( image of images )
+	{
+		<img src="image" />
+	}
+</div>
