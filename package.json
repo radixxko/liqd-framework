@@ -1,7 +1,7 @@
 {
   "name": "liqd-framework",
   "description": "Node.JS Server framework",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/liqd.js",
@@ -35,7 +35,7 @@
     "liqd-timed-promise": "^1.2.0",
     "liqd-timer": "^1.0.0",
     "liqd-unique-id": "^1.0.0",
-    "liqd-xml-parser": "^1.0.1"
+    "liqd-xml-parser": "^1.0.2"
   },
   "devDependencies": {
     "coveralls": "^3.0.2",
