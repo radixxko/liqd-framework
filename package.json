@@ -1,7 +1,7 @@
 {
   "name": "liqd-framework",
   "description": "Node.JS Server framework",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/liqd.js",
