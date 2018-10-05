@@ -1,5 +1,7 @@
 const Liqd = require('../lib/liqd');
 
+Liqd.init();
+
 console.log('   janko    hrasko   '.collapseWhitespace().capitalize());
 
 const server = new Liqd.Server();
