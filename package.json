@@ -9,8 +9,7 @@
     "lib/"
   ],
   "scripts": {
-    "test": "nyc mocha",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
@@ -42,10 +41,5 @@
     "liqd-websocket": "^1.0.1",
     "liqd-worker": "^1.0.0",
     "liqd-xml-parser": "^1.1.1"
-  },
-  "devDependencies": {
-    "coveralls": "^3.0.2",
-    "mocha": "^5.2.0",
-    "nyc": "^11.9.0"
   }
 }
