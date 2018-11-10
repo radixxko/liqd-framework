@@ -1,7 +1,7 @@
 {
   "name": "liqd-framework",
   "description": "Node.JS Server framework",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/liqd.js",
@@ -32,7 +32,7 @@
     "liqd-options": "^1.0.6",
     "liqd-parser": "^1.3.0",
     "liqd-querystring": "^1.0.0",
-    "liqd-server": "^1.2.12",
+    "liqd-server": "^1.2.13",
     "liqd-session": "^1.1.2",
     "liqd-sql": "^1.4.11",
     "liqd-string": "^1.0.2",
