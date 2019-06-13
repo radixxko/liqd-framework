@@ -1,7 +1,7 @@
 {
   "name": "liqd-framework",
   "description": "Node.JS Server framework",
-  "version": "1.5.29",
+  "version": "1.5.30",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/liqd.js",
@@ -32,7 +32,7 @@
     "liqd-options": "^1.0.8",
     "liqd-parser": "^1.3.0",
     "liqd-querystring": "^1.0.1",
-    "liqd-server": "^1.2.23",
+    "liqd-server": "^1.2.24",
     "liqd-session": "^1.1.4",
     "liqd-sql": "^1.5.0",
     "liqd-string": "^1.0.4",
@@ -41,7 +41,7 @@
     "liqd-timed-promise": "^1.2.4",
     "liqd-timer": "^1.0.3",
     "liqd-unique-id": "^1.0.3",
-    "liqd-websocket": "^1.1.0",
+    "liqd-websocket": "^1.1.1",
     "liqd-worker": "^1.0.3",
     "liqd-xml-parser": "^1.1.6"
   }
